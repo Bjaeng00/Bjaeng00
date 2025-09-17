@@ -1,18 +1,14 @@
-` 주석은 실제 화면에 보이지 않으니, 설명을 읽고 내용을 채워주세요.
-- OOO, `YOUR_USERNAME` 등 대문자로 된 부분은 본인의 정보로 채워주세요.
--->
-
 <div align="center">
-  <h1>👋 안녕하세요, OOO입니다!</h1>
-  <p><strong>끊임없이 배우고 성장하는 것을 즐기는 OOO 개발자입니다.</strong></p>
-  <p><em>(이곳에 자신을 나타내는 한 줄 소개나 좌우명을 적어보세요)</em></p>
+  <h1>👋 안녕하세요, 백병재입니다!</h1>
+  <p><strong>끊임없이 배우고 성장하는 것을 즐기는 개발자입니다.</strong></p>
+  <p><em>노력하는 개발자가 되겠습니다.</em></p>
 </div>
 
 <br>
 
 ## 🔭 About Me
-- 🌱 저는 **OOO 분야**에 관심이 많은 주니어 개발자입니다.
-- 🚀 현재 **OOO 기술**을 집중적으로 공부하고 있습니다.
+- 🌱 저는 **웹, 게임 분야**에 관심이 많은 주니어 개발자입니다.
+- 🚀 현재 **프론트 엔드**를 집중적으로 공부하고 있습니다.
 - 💡 사용자와 동료에게 더 나은 경험을 제공하는 **효율적인 코드**에 대해 항상 고민합니다.
 - 📫 **연락 방법**: `bjaeng@naver.com`
 
@@ -29,15 +25,12 @@
 * **프론트엔드 (Frontend)**
     <p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-      <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
     </p>
 * **백엔드 (Backend)**
     <p>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
     </p>
 * **데이터베이스 (Database)**
     <p>
@@ -67,9 +60,8 @@
 
 ## 📫 Contact & Channels
 <div align="center">
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://YOUR_BLOG_URL"><img src="https://img.shields.io/badge/Blog-12B886?style=for-the-badge&logo=velog&logoColor=white"></a>
+  <a href="mailto:bjaeng@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://bjaeng.blogspot.com/"><img src="https://img.shields.io/badge/Blog-12B886?style=for-the-badge&logo=velog&logoColor=white"></a>
   </div>
 
 <br>
